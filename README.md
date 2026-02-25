@@ -213,6 +213,11 @@ OSF-Open-Sleep-Foundation-Model/
 If you use this code or models in your research, please cite our paper:
 
 ```bibtex
-[TODO]
+@article{shuai2026osf,
+  title={OSF: On Pre-training and Scaling of Sleep Foundation Models},
+  author={Shuai, Zitao and Xu, Zongzhe and Yang, David and Wang, Wei and Yang, Yuzhe},
+  journal={arXiv preprint},
+  year={2026}
+}
 ```
 
