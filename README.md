@@ -1,5 +1,11 @@
 # OSF: On Pre-training and Scaling of Sleep Foundation Models
 
+[![Paper](https://img.shields.io/badge/paper-arXiv-red)](#citation)
+[![Webpage](https://img.shields.io/badge/website-demo-blue)](https://yang-ai-lab.github.io/osf/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)](#installation)
+
+
 ## 🔥 News
 
 - [2026-2-24] Our codebase and checkpoint is released. Full codebase for benchmarking will be public available after acceptance.
