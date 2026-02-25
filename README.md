@@ -2,8 +2,8 @@
 
 ## 🔥 News
 
-- Our codebase and checkpoint is released. Full codebase for benchmarking will be public available after acceptance.
-- Our paper is out.
+- [2026-2-24] Our codebase and checkpoint is released. Full codebase for benchmarking will be public available after acceptance.
+- [2026-2-22] Our paper is out.
 
 ## 📖 Introduction
 
