@@ -20,13 +20,13 @@ MONITOR_TYPE_MAP = {
     "type3": TRAIN_EDF_COLS_TYPE3,
     "type4": TRAIN_EDF_COLS_TYPE4,
 }
-STAGE2_LABEL_PATH_WITH_PATHHEAD = "/work/hdd/besp/shared_data/merged_patient_csv_splits_real"  
-CKPT_PATH = "/work/hdd/besp/shared_data/unimodal_zitao_pretrain"
+STAGE2_LABEL_PATH_WITH_PATHHEAD = "/Yourpath/merged_patient_csv_splits_real"  
+CKPT_PATH = "/Yourpath/unimodal_zitao_pretrain"
 MODEL_LIST = ["dino_ours"]
 
 AUGMENTATION_MAP = {
     "dino_ours": "chan_then_pcspan",
 }
-SPLIT_DATA_FOLDER = "/projects/besp/shared_data/sleep_postprocessed_data"
+SPLIT_DATA_FOLDER = "/Yourpath/sleep_postprocessed_data"
 PRETRAIN_VAL_DATASET_LIST = ['shhs']
 NEED_NORM_COL = [HR, SPO2, OX]
