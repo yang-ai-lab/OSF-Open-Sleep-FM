@@ -26,7 +26,7 @@ NUMOM2B = 'numom2b'
 # =============================================================================
 # Data paths
 # =============================================================================
-META_PATH = '/scratch/besp/shared_data'
+META_PATH = '/Yourpath'
 
 MASTER_SHHS = [META_PATH + "/" + SHHS + "/datasets/shhs-harmonized-dataset-0.21.0.csv"]
 MASTER_CHAT = [META_PATH + "/" + CHAT + "/datasets/chat-harmonized-dataset-0.14.0.csv"]
