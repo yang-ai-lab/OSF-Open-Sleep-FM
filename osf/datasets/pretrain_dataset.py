@@ -22,7 +22,7 @@ def to_pm1(s: pd.Series) -> pd.Series:
 class SleepEpochDataset(Dataset):
     def __init__(
         self,
-        csv_dir='/scratch/besp/shared_data/five_min_sleep_data_split_test_with_cache',
+        csv_dir='/Yourpath',
         split: str = "train",
         *,
         data_pct=1,
