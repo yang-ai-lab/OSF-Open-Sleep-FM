@@ -86,7 +86,7 @@ with torch.no_grad():
 
 | Model | Backbone | Channels | Download |
 |-------|----------|----------|----------|
-| OSF | ViT-Base | 12-ch | [OSF Open Download Link](https://drive.google.com/drive/u/1/folders/1GmXbBRU05NQZaU37fiEWe4PhUmjD-clt) |
+| OSF | ViT-Base | 12-ch | [OSF Open Download Link](https://huggingface.co/yang-ai-lab/OSF-Base) |
 
 After downloading, place the weight files in the `pretrained_weights/` directory.
 
