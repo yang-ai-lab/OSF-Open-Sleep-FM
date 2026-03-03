@@ -1,15 +1,16 @@
 # OSF: On Pre-training and Scaling of Sleep Foundation Models
 
-[![Paper](https://img.shields.io/badge/paper-arXiv-red)](#citation)
+[![Paper](https://img.shields.io/badge/paper-arXiv-red)](https://arxiv.org/abs/2603.00190)
 [![Webpage](https://img.shields.io/badge/website-demo-blue)](https://yang-ai-lab.github.io/osf/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-OSF--Base-FFD21E)](https://huggingface.co/yang-ai-lab/OSF-Base)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)](#installation)
 
 
 ## 🔥 News
 
-- [2026-2-24] Our codebase and checkpoint is released. Full codebase for benchmarking will be public available after acceptance.
-- [2026-2-22] Our paper is out.
+- [2026-2-24] Our initial codebase and [checkpoint](https://huggingface.co/yang-ai-lab/OSF-Base) is released.
+- [2026-2-22] Our [paper](https://arxiv.org/abs/2603.00190) is out.
 
 ## 📖 Introduction
 
@@ -222,7 +223,7 @@ If you use this code or models in your research, please cite our paper:
 @article{shuai2026osf,
   title={OSF: On Pre-training and Scaling of Sleep Foundation Models},
   author={Shuai, Zitao and Xu, Zongzhe and Yang, David and Wang, Wei and Yang, Yuzhe},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2603.00190},
   year={2026}
 }
 ```
