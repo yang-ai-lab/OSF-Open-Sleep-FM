@@ -173,24 +173,25 @@ python main_finetune.py \
 
 For example scripts, see `main_pipelines` and `bash_scripts` folders.
 
-## 📊 Supported Datasets
+## 📊 SleepBench
 
-We aggregated nine large-scale datasets from the National Sleep Research Resource platform.
+We aggregated nine large-scale datasets from the National Sleep Research Resource platform to form our **SleepBench**. To acquire these resources, please accesss the following links. We will open-source our preprocessing codes in later version.
 
 | Dataset | Full Name | Source |
 |---------|-----------|--------|
-| SHHS | Sleep Heart Health Study | NSRR |
-| CHAT | Childhood Adenotonsillectomy Trial | NSRR |
-| MROS | MrOS Sleep Study | NSRR |
-| CCSHS | Cleveland Children's Sleep and Health Study | NSRR |
-| CFS | Cleveland Family Study | NSRR |
-| MESA | Multi-Ethnic Study of Atherosclerosis | NSRR |
-| SOF | Study of Osteoporotic Fractures | NSRR |
-| WSC | Wisconsin Sleep Cohort | NSRR |
-| STAGES | Stanford Technology Analytics and Genomics in Sleep | NSRR |
-| NCHSDB | NCH Sleep DataBank | NSRR |
+| SHHS | Sleep Heart Health Study | [SHHS](https://www.sleepdata.org/datasets/shhs) |
+| CHAT | Childhood Adenotonsillectomy Trial | [CHAT](https://www.sleepdata.org/datasets/chat) |
+| MROS | MrOS Sleep Study | [MROS](https://www.sleepdata.org/datasets/mros) |
+| CCSHS | Cleveland Children's Sleep and Health Study | [CCSHS](https://www.sleepdata.org/datasets/ccshs) |
+| CFS | Cleveland Family Study | [CFS](https://www.sleepdata.org/datasets/cfs) |
+| MESA | Multi-Ethnic Study of Atherosclerosis | [MESA](https://www.sleepdata.org/datasets/mesa) |
+| SOF | Study of Osteoporotic Fractures | [SOF](https://www.sleepdata.org/datasets/sof) |
+| WSC | Wisconsin Sleep Cohort | [WSC](https://www.sleepdata.org/datasets/wsc) |
+| STAGES | Stanford Technology Analytics and Genomics in Sleep | [STAGES](https://www.sleepdata.org/datasets/stages) |
+| NCHSDB | NCH Sleep DataBank | [NCHSDB](https://www.sleepdata.org/datasets/nchsdb) |
 
 For new users, please apply for an account and access to each of these datasets following instructions here [NSRR Registration](https://sleepdata.org/join)
+
 
 ## 📁 Project Structure
 
@@ -218,6 +219,7 @@ OSF-Open-Sleep-Foundation-Model/
 ## 📝 Citation
 
 If you use this code or models in your research, please cite our paper:
+
 
 ```bibtex
 @article{shuai2026osf,
